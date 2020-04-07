@@ -1,6 +1,7 @@
 {
   "HOME": {
     "TITLE": "Hello weblate",
-    "SELECT": "Change language"
+    "SELECT": "Change language",
+    "HELLO": "Hello"
   }
 }
